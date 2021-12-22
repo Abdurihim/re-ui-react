@@ -13,5 +13,6 @@
 ```bash
 # create-react-app 内置了 jest 测试
 
-npx jest jest.test.js --watch
+yarn 
+yarn  start
 ```
